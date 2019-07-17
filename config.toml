@@ -1,0 +1,4 @@
+baseURL = "http://moorparktech.org/"
+languageCode = "en-us"
+title = "moorparktech.org"
+theme = "hermit"
